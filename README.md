@@ -39,11 +39,6 @@ This project was built using **Python Flask** for the backend, **MySQL** as the 
 ---
 
 
-## 👩‍💻 Developed By
-
-**Avani Srivastava**  
-[Technical Team Member at GDG PCE | Hackathon Enthusiast | Passionate Developer]  
-
 ---
 
 ## 📬 Contact
